@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: gray;
+    height: 580px;
+    padding-top: 20px;
+}
+ .Btn{
+     width: 25%;
+     height: 59px;
+     display: inline-block;
+     margin: 27px;
+ }
+
+ .output{
+     width: 85%;
+     height: 120px;
+     margin: auto;
+     background-color: beige;
+ }
